@@ -1,0 +1,6 @@
+{
+    "mongoConfig":{
+        "serverUrl": "mongodb://localhost:27017/",
+        "database": "CK_Web_2_lab_1"
+    }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "cs-551",
+  "version": "1.0.0",
+  "description": "This is Lab 1",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Chakravarti Kothadiya 20012229",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "i": "^0.3.7",
+    "mongodb": "^4.13.0"
+  }
+}
